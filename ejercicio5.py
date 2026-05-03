@@ -32,7 +32,7 @@ class Bicicleta(Vehiculo):
         self.velocidad += 5
         print(f"Pedaleas rápido en la bicicleta de {self.tipo}. Nueva velocidad: {self.velocidad} km/h")
 
-# --- Pruebas de Sobreescritura (Polimorfismo) ---
+# --- Pruebas de Sobreescritura ---
 
 mi_carro = Coche("Volkswagen", "Tiguan")
 mi_bici = Bicicleta("Montaña")
