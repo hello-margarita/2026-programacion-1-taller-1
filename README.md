@@ -1,9 +1,9 @@
 # 2026-programacion-1-taller-1
 
-### Workshop Overview
+### 🔍 Workshop Overview
 This repository contains the solution for **Workshop 1** of the **Programación I** course (2nd Semester, Systems Engineering). The project focuses on solving real-world scenarios by applying core **Object-Oriented Programming (OOP)** fundamentals in Python.
 
-### Topics Covered
+### 📝 Topics Covered
 *   **Encapsulation:** Managing class attributes and methods.
 *   **Inheritance:** Creating hierarchical structures for vehicles and animals.
 *   **Abstraction & Interfaces:** Defining blueprints with `ABC` (Abstract Base Classes).
